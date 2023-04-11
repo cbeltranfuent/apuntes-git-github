@@ -63,6 +63,11 @@ Para configurar git escribir el usuario y la contraseña de GitHub
 git --global user.name "username" 
 git --global user.email "ingresecorreo@gmail.com"
 ~~~
+##Para windows 
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+~~~
 
 ## Confirmar la configuración de GIT
 ~~~	
